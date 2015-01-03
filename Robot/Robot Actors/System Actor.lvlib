@@ -10,6 +10,7 @@
 		<Item Name="Finish Command Msg.lvclass" Type="LVClass" URL="../System Actor/System Actor Messages/Finish Command Msg/Finish Command Msg.lvclass"/>
 		<Item Name="Start Command Msg.lvclass" Type="LVClass" URL="../System Actor/System Actor Messages/Start Command Msg/Start Command Msg.lvclass"/>
 		<Item Name="Stop Command Msg.lvclass" Type="LVClass" URL="../System Actor/System Actor Messages/Stop Command Msg/Stop Command Msg.lvclass"/>
+		<Item Name="Updated Command Processor Status Msg.lvclass" Type="LVClass" URL="../System Actor/System Actor Messages/Updated Command Processor Status Msg/Updated Command Processor Status Msg.lvclass"/>
 		<Item Name="Updated Command Status Msg.lvclass" Type="LVClass" URL="../System Actor/System Actor Messages/Updated Command Status Msg/Updated Command Status Msg.lvclass"/>
 		<Item Name="Write System Status Ref Msg.lvclass" Type="LVClass" URL="../System Actor/System Actor Messages/Write System Status Ref Msg/Write System Status Ref Msg.lvclass"/>
 	</Item>

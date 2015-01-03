@@ -11,6 +11,7 @@
 		<Item Name="Go To No Command Msg.lvclass" Type="LVClass" URL="../Command Processor Messages/Go To No Command Msg/Go To No Command Msg.lvclass"/>
 		<Item Name="Go To Running Command Msg.lvclass" Type="LVClass" URL="../Command Processor Messages/Go To Running Command Msg/Go To Running Command Msg.lvclass"/>
 		<Item Name="Start Command Msg.lvclass" Type="LVClass" URL="../Command Processor Messages/Start Command Msg/Start Command Msg.lvclass"/>
+		<Item Name="Updated Command Status Msg.lvclass" Type="LVClass" URL="../Command Processor Messages/Updated Command Status Msg/Updated Command Status Msg.lvclass"/>
 	</Item>
 	<Item Name="States" Type="Folder">
 		<Item Name="No Command.lvclass" Type="LVClass" URL="../States/No Command/No Command Class/No Command.lvclass"/>

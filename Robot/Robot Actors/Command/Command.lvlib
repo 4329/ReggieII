@@ -11,7 +11,6 @@
 		<Item Name="Command Stopped Msg.lvclass" Type="LVClass" URL="../Command Messages/Command Stopped Msg/Command Stopped Msg.lvclass"/>
 		<Item Name="Finish Command Msg.lvclass" Type="LVClass" URL="../Command Messages/Finish Command Msg/Finish Command Msg.lvclass"/>
 		<Item Name="Read Command Status Msg.lvclass" Type="LVClass" URL="../Command Messages/Read Command Status Msg/Read Command Status Msg.lvclass"/>
-		<Item Name="Request Command Status Update Msg.lvclass" Type="LVClass" URL="../Command Messages/Request Command Status Update Msg/Request Command Status Update Msg.lvclass"/>
 		<Item Name="Start Command Msg.lvclass" Type="LVClass" URL="../Command Messages/Start Command Msg/Start Command Msg.lvclass"/>
 	</Item>
 	<Item Name="Command.lvclass" Type="LVClass" URL="../Command Class/Command.lvclass"/>
